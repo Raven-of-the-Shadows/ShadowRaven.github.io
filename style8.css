@@ -167,6 +167,17 @@ b{font-weight: bold;}
     color: white;
     padding: 15px;
 }
+.sort{
+    display: block;
+    width: 200px;
+    position: relative;
+    left: 700px;
+    top: -50px;
+}
+.sort select{
+    width: 200px;
+    height: 30px;
+}
 .f30{
     font-size: 30px;
     color: white;
